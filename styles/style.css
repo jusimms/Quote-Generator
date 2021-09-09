@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+ body {
+  height: 100vh;
+  font-size: 1em;
+  background-color: #FDF6F0;
+}
+
+.quote-body {
+  padding: 50px 35px;
+  text-align: center;
+  background-color: #FDD2BF;
+  color: black;
+  height: 200px;
+  width: 60%;
+  border-radius: 50px;
+  margin-left: 20%;
+
+}
+
+.quote-wrapper {
+  margin-top: 60px;
+}
+
+.quote-heading {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.quote-heading h2 {
+  font-weight: 400;
+  color: black;
+  padding-top: 10px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.quote-buttons {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.name {
+ text-align: center;
+  margin-top: 15px;
+}
+
+ /* main {
+  width: 50%;
+  max-width: 1080px;
+  padding: 1em 0 2em;
+  margin: 0 auto;
+}
+
+div {
+  padding: 10px;
+}
+
+#button {
+  width: 20%;
+
+}
+
+h1 {
+  font-size: 3.75em;
+  margin-bottom: 0.5em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+.quote {
+  font-size: 2em;
+}
+
+.btn-large {
+  margin: 10px;
+}
+
+.card {
+  text-align: center;
+  width: 45em;
+  color: black;
+}
+
+.new-quote-button {
+  background-color: #FDD2BF;
+  border-color: grey;
+  color: #fff;
+} */
+
+#quote-btn:hover {
+  background-color:bisque;
+}
+
+/* .quote-buttons:hover {
+  
+
+ 
+}    */
+
+
+
